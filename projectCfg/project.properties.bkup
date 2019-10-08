@@ -1,0 +1,84 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Tue Sep 24 21:32:19 CDT 2019
+#Tue Sep 24 21:32:19 CDT 2019
+generalSettingsGeneral\ Settings_width=538
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+canId=0
+veTable1Map3DVE\ Table\ 1\ (MAP)_Y=288
+veTable1Map3DVE\ Table\ 1\ (MAP)_X=669
+_Set\ X\ Axis\ Minimum=-60.0
+firmwareDescription=** V2.92Embedded Code by B&G **
+CommSettingKODOSCommDriver.TCP/IP\ -\ WiFi\ driverIP\ Address=192.168.4.1
+CommSettingMSCommDriver.TCP/IP\ -\ WiFi\ driverPort=8080
+veTable1Map3DVE\ Table\ 1\ (MAP)_width=1222
+idleControlIdle\ Control_Y=363
+idleControlIdle\ Control_X=1029
+idleControlIdle\ Control_width=502
+CommSettingBaud\ Rate=115200
+projectDescription=
+VeAnalyzeConsole.veTable1Tbl_selectedDash=Standard
+CommSettingKODOSCommDriver.controllerInterfaceId=TCP/IP - WiFi driver
+PersistedAccumulatedValue_(\ tsInputSpeedMPH\ /\ 3600.0\ *\ deltatime\ )=0.0
+projectName=SVO_II
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+commPort=/dev/cu.usbserial-ftDWFBNU
+Triggers.ActiveTriggers=Stop Data log|Data log|
+CommSettingMSCommDriver.TCP/IP\ -\ WiFi\ driverIP\ Address=192.168.4.1
+protocolEnvelope=
+userDash0.FileName=Default.dash
+CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM3
+Triggers.EventTrigger\:Data\ log\:active=true
+Triggers.EventTrigger\:Stop\ Data\ log\:triggered=false
+userDash0.DashName=Default
+veTable1TblVE\ Table\ 1\ (MAP)_width=1190
+WueAnalyzeConsole.wueAnalyzer_warmup_curve_verticalSplitPos=673
+VeAnalyzeConsole.veTable1Tbl_verticalSplitPos=616
+Triggers.EventTrigger\:Stop\ Data\ log\:active=true
+veTable1Map3DVE\ Table\ 1\ (MAP)_height=803
+CommSettingMSCommDriver.controllerInterfaceId=TCP/IP - WiFi driver
+Triggers.EventTrigger\:Stop\ Data\ log\:resetExpression=AppEvent.dataLoggingActive \!\= 0
+baudRate=115200
+std_port_editOutput\ port\ Settings_width=710
+generalSettingsGeneral\ Settings_Y=283
+veTable1TblVE\ Table\ 1\ (MAP)_height=642
+generalSettingsGeneral\ Settings_X=1011
+std_port_editOutput\ port\ Settings_height=517
+refTable_002_txtY2=20
+refTable_002_txtY1=10
+CommSettingCom\ Port=/dev/cu.usbserial-ftDWFBNU
+Triggers.EventTrigger\:Data\ log\:triggerExpression=rpm > 1 && AppEvent.dataLoggingActive \=\= 0
+Accel\ Enrichment\ Wizard_width=927
+Triggers.EventTrigger\:Data\ log\:triggered=false
+logFileDir=C\:\\Users\\shawn\\Documents\\TunerStudioProjects\\SVO_II\\DataLogs
+CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+ecuConfigFile=mainController.ini
+generalSettingsGeneral\ Settings_height=813
+refTable_002_txtX2=5.0
+refTable_002_txtX1=0.0
+otherFuelOther\ Fuel\ Settings_height=811
+std_port_editOutput\ port\ Settings_Y=431
+std_port_editOutput\ port\ Settings_X=925
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM3
+otherFuelOther\ Fuel\ Settings_Y=284
+otherFuelOther\ Fuel\ Settings_X=944
+Accel\ Enrichment\ Wizard_height=947
+dashBoardFile=/dashboard//dashboard.dash
+tuneFileDir=C\:\\Users\\shawn\\Documents\\TunerStudioProjects\\SVO_II
+VeAnalyzeConsole.veTable1Tbl_horizontalSplitPos=198
+Accel\ Enrichment\ Wizard_Y=216
+Accel\ Enrichment\ Wizard_X=816
+idleControlIdle\ Control_height=653
+CommSettingKODOSCommDriver.TCP/IP\ -\ WiFi\ driverPort=8080
+WueAnalyzeConsole.wueAnalyzer_warmup_curve_selectedDash=Standard
+WueAnalyzePanel_wueAnalyzer_warmup_curve_applyPeriod=Manually
+otherFuelOther\ Fuel\ Settings_width=672
+PersistedAccumulatedValue_(\ (\ tsInputSpeedMPH\ *\ 1.60934\ )\ /\ 3600.0\ *\ deltatime\ )=0.0
+Triggers.EventTrigger\:Stop\ Data\ log\:triggerExpression=rpm < 1 && AppEvent.dataLoggingActive \!\= 0
+CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+selectedComDriver=Multi Interface MegaSquirt Driver
+Triggers.EventTrigger\:Data\ log\:resetExpression=AppEvent.dataLoggingActive \=\= 0
+veTable1TblVE\ Table\ 1\ (MAP)_Y=475
+veTable1TblVE\ Table\ 1\ (MAP)_X=976
+PersistedAccumulatedValue_(\ (\ tsFuelFlowGph\ *\ deltatime\ /\ 3600.0\ )\ )=-0.0
+ecuSettings=||AFR|EXPANDED_CLT_TEMP_OFF|FAHRENHEIT|INNOVATE_LC1_DEFAULT|X_TAU_VISIBLE|
