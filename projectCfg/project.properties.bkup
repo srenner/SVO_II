@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Tue Sep 24 21:32:19 CDT 2019
-#Tue Sep 24 21:32:19 CDT 2019
+#Last Saved on: Mon Oct 07 18:38:34 CDT 2019
+#Mon Oct 07 18:38:34 CDT 2019
 generalSettingsGeneral\ Settings_width=538
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
 canId=0
@@ -49,7 +49,7 @@ refTable_002_txtY1=10
 CommSettingCom\ Port=/dev/cu.usbserial-ftDWFBNU
 Triggers.EventTrigger\:Data\ log\:triggerExpression=rpm > 1 && AppEvent.dataLoggingActive \=\= 0
 Accel\ Enrichment\ Wizard_width=927
-Triggers.EventTrigger\:Data\ log\:triggered=false
+Triggers.EventTrigger\:Data\ log\:triggered=true
 logFileDir=C\:\\Users\\shawn\\Documents\\TunerStudioProjects\\SVO_II\\DataLogs
 CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
 ecuConfigFile=mainController.ini
@@ -75,8 +75,8 @@ WueAnalyzePanel_wueAnalyzer_warmup_curve_applyPeriod=Manually
 otherFuelOther\ Fuel\ Settings_width=672
 PersistedAccumulatedValue_(\ (\ tsInputSpeedMPH\ *\ 1.60934\ )\ /\ 3600.0\ *\ deltatime\ )=0.0
 Triggers.EventTrigger\:Stop\ Data\ log\:triggerExpression=rpm < 1 && AppEvent.dataLoggingActive \!\= 0
-CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
 selectedComDriver=Multi Interface MegaSquirt Driver
+CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
 Triggers.EventTrigger\:Data\ log\:resetExpression=AppEvent.dataLoggingActive \=\= 0
 veTable1TblVE\ Table\ 1\ (MAP)_Y=475
 veTable1TblVE\ Table\ 1\ (MAP)_X=976
