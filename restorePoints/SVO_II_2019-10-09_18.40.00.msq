@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="    Leaned out target AFR on boost&#10;&#10;  " writeDate="Wed Oct 09 18:40:00 CDT 2019"/>
+<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;    Leaned out target AFR on boost&#10;&#10;  " writeDate="Wed Oct 09 18:40:00 CDT 2019"/>
 <versionInfo fileFormat="5.0" firmwareInfo="**+V2.92Embedded+Code+by+B%26G+**" nPages="2" signature="MSII Rev 2.92000   "/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>

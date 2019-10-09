@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Tue Oct 08 21:15:11 CDT 2019
-#Tue Oct 08 21:15:11 CDT 2019
+#Last Saved on: Wed Oct 09 18:26:29 CDT 2019
+#Wed Oct 09 18:26:29 CDT 2019
 generalSettingsGeneral\ Settings_width=538
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
 canId=0
@@ -76,9 +76,9 @@ WueAnalyzePanel_wueAnalyzer_warmup_curve_applyPeriod=Manually
 otherFuelOther\ Fuel\ Settings_width=672
 PersistedAccumulatedValue_(\ (\ tsInputSpeedMPH\ *\ 1.60934\ )\ /\ 3600.0\ *\ deltatime\ )=0.0
 Triggers.EventTrigger\:Stop\ Data\ log\:triggerExpression=rpm < 1 && AppEvent.dataLoggingActive \!\= 0
-CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
-selectedComDriver=Multi Interface MegaSquirt Driver
 tpsDotCurve_showText=true
+selectedComDriver=Multi Interface MegaSquirt Driver
+CommSettingKODOSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
 Triggers.EventTrigger\:Data\ log\:resetExpression=AppEvent.dataLoggingActive \=\= 0
 veTable1TblVE\ Table\ 1\ (MAP)_Y=475
 veTable1TblVE\ Table\ 1\ (MAP)_X=976
